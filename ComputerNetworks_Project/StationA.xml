@@ -1,0 +1,32 @@
+<trains>
+    <train number="1234" arrivalTime="05:50" departureTime="06:03" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1235" arrivalTime="06:51" departureTime="06:55" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1241" arrivalTime="07:42" departureTime="07:57" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1237" arrivalTime="08:35" departureTime="08:48" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1134" arrivalTime="09:20" departureTime="09:30" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1244" arrivalTime="09:43" departureTime="09:50" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1249" arrivalTime="10:10" departureTime="10:15" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1236" arrivalTime="12:34" departureTime="12:41" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1134" arrivalTime="13:58" departureTime="14:20" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1139" arrivalTime="14:22" departureTime="14:25" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1334" arrivalTime="14:45" departureTime="14:52" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1254" arrivalTime="16:18" departureTime="16:20" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1224" arrivalTime="17:33" departureTime="18:03" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1033" arrivalTime="17:40" departureTime="17:42" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1004" arrivalTime="17:57" departureTime="18:11" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1294" arrivalTime="18:02" departureTime="18:15" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1230" arrivalTime="18:13" departureTime="18:20" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1231" arrivalTime="18:34" departureTime="18:36" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1534" arrivalTime="18:49" departureTime="18:55" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1238" arrivalTime="18:57" departureTime="19:03" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1237" arrivalTime="19:02" departureTime="19:08" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1214" arrivalTime="19:17" departureTime="19:22" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1634" arrivalTime="19:35" departureTime="19:40" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1204" arrivalTime="19:38" departureTime="19:43" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1034" arrivalTime="19:49" departureTime="19:58" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1239" arrivalTime="19:53" departureTime="20:07" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1204" arrivalTime="20:23" departureTime="20:30" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1884" arrivalTime="20:46" departureTime="20:50" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1904" arrivalTime="21:50" departureTime="22:03" delay="---" update="-----" Dupdate="-----"/>
+    <train number="1944" arrivalTime="22:43" departureTime="23:05" delay="---" update="-----" Dupdate="-----"/>
+</trains>
